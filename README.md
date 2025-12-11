@@ -187,7 +187,7 @@ Other files in repo root:
 
 * `All combinations of all tokens/` — notebooks for token-based generation and evaluation.
 * `Baseline/` — baseline modeling notebooks used for initial experiments.
-* `Checker/` and `For Checker/` — validation and submission-related files used for checker-stage evaluation.
+* `Checker/`  — validation used for checker-stage evaluation.
 * `Datasets/` — original datasets and ChEMBL/ZINC text files used to build tokenizer and training data.
 * `Generated molecules/` — exploratory generated molecule CSVs (intermediate outputs).
 * `Images/` — visual assets used in README (Pipeline, Stacking model, Correlation). The README references `Images/Pipeline.jpg`, `Images/StackingRegressionModel.png`, and the correlation plots folder.
