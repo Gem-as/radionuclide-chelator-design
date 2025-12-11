@@ -135,33 +135,6 @@ Datasets/
 EDA/
   corr_cov.ipynb
 
-For Checker/
-  Copy of check_tune_base_valid.xls
-  Copy of second_check_tune_base_valid.xls
-  Copy of third_check_tune_base_valid.xls
-  Copy of fourth_check_tune_base_valid.xls
-  Copy of fifth_check_tune_base_valid.xls
-  Copy of sixth_check_tune_base_valid.xls
-  Copy of seventh_check_tune_base_valid.xls
-  Copy of eight_check_tune_base_valid.xls
-  Copy of nineth_check_tune_base_valid.xls
-  Copy of ten_check_tune_base_valid.xls
-  Copy of eleven_check_tune_base_valid.xls
-  Copy of twelve_check_tune_base_valid.xls
-  Copy of gener_meta2.csv
-  Copy of gener_meta3.csv
-  Copy of gener_meta4.csv
-  Copy of send_8.csv
-  Copy of submit_3.csv
-  Copy of submit_4.csv
-  Copy of submit_5.csv
-  Copy of submit_6.csv
-  Copy of submit_7.csv
-  Copy of submit_8.csv
-  Copy of submit_9.csv
-  Copy of submit_check_2.csv
-  Copy of submit_check_now.csv
-
 Generated molecules/
   Copy of 1.csv
   Copy of 2.csv
@@ -202,6 +175,7 @@ Submits/
   Copy of submit_14.csv
   Copy of submit_100.csv
   Copy of submit_200.csv
+  final.csv
 
 Other files in repo root:
   Information on the binding of a medical radionuclide by various molecules.csv
