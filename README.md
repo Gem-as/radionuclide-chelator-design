@@ -7,6 +7,7 @@ A completed proof-of-concept pipeline that generates 100 candidate chelator SMIL
 
 ## Background (project purpose)
 ![](Images/Annotation.png)
+![](Images/Annotation)
 
 Radiopharmaceuticals are drugs that deliver radionuclides to tumors for diagnosis and therapy. Each radiopharmaceutical typically consists of three modules:
 
@@ -168,7 +169,7 @@ Generated molecules/
   Copy of 4.csv
 
 Images/
-  Annotation.pdf
+  Annotation.png
   Pipeline.jpg
   Correlation/  (correlation plots folder)
   StackingRegressionModel.png
